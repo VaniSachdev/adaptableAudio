@@ -17,7 +17,8 @@
     "react-audio-spectrogram-player": "^1.0.1",
     "react-native": "0.73.2",
     "react-native-metronome-module": "^2.3.0",
-    "web-audio-beat-detector": "^8.2.3"
+    "web-audio-beat-detector": "^8.2.3",
+    "react-native-webview": "13.6.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
